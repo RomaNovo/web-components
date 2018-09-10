@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "import/prefer-default-export": false,
+    "no-new": "off",
+    "linebreak-style": "off",
+    "no-param-reassign": "off"
+  },
+  "env": {
+    "browser": true
+  }
+}
