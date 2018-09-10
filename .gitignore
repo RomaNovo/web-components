@@ -1,0 +1,4 @@
+node_modules/
+new_pages/prepros-6.config
+new_pages/__pycache__
+new_pages/source/task/**
